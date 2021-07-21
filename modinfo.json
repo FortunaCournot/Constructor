@@ -1,0 +1,16 @@
+{
+	"name": "Constructor v0.0.8",
+	"description": "Dedicated to automated construction of build items and spawning of their actors.\n\nIt offers a \"Job Box\". Job Box is a Container with one slot. If a Building Item is placed inside, the corresponding actor will replace the container. The actor will be spawned as brush and decay deactivated (shows '-' with repair hammer).",
+	"changeNote": "",
+	"author": "Fortuna",
+	"authorUrl": "https://steamcommunity.com/id/FortunaCournot/myworkshopfiles/?appid=440900",
+	"versionMajor": 0,
+	"versionMinor": 0,
+	"versionBuild": 8,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2225937973",
+	"steamVisibility": 0,
+	"folderName": "Constructor",
+	"revisionNumber": 243819,
+	"snapshotId": 26326
+}
